@@ -4,7 +4,8 @@
 
 ---
 
-I am a branding expert, avid entrepreneur, time investor, determined performer, nature lover, truth seeker, destiny believer, a multi-skilled, simple happy family man who is passionate about solving a business need that improves the company. 
+I am a branding expert, avid entrepreneur, time investor, determined performer, nature lover, truth seeker, destiny believer, a multi-skilled, simple happy family man who is passionate about solving a business need that improves the company. <br/>
+
 I'm a Front-End Web Developer by passion and a citizen by birth living now in Dhaka, Bangladesh. I have been working with the Front-End Design and have been passionate about WordPress Developer. I'm also  a proven high performer who working on a new project to help the community.
 
 ---
