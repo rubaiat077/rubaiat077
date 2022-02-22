@@ -1,4 +1,4 @@
-![🎓Front End Developer | UI/UX Designer | WordPress Developer ](https://pbs.twimg.com/profile_banners/1424961218301726725/1645514497/700x200)
+![🎓Front End Developer | UI/UX Designer | WordPress Developer ](https://pbs.twimg.com/profile_banners/1424961218301726725/1645514497/600x200)
 # Hi, I am Rubaiat Sabbir 👋 
 ![Profile views](https://gpvc.arturio.dev/rubaiat077)  
 
